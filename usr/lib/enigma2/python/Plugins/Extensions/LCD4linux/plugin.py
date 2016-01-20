@@ -45,7 +45,7 @@ import email
 from email.header import decode_header
 import urlparse
 import urllib
-import simplejson
+import json as simplejson
 import calendar
 import math
 import gc
